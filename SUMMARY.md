@@ -4,7 +4,7 @@
 
 * [Python Essentials 1](content/PE1/overview.md)
     * [Syllabus](content/PE1/syllabus.md)
-    * [Applications for Python]()
+    * [Applications for Python](content/PE1/application-for-python.md)
     * [Module 1: Introduction to Python and Computer Programming]()
     * [Module 2: Data types, variables, basic I/O operations, and basic operators]()
     * [Module 3: Boolean values, conditional execution, loops, lists and list processing, logical and bitwise operations]()
